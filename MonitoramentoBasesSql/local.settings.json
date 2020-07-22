@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "Conexoes": "DadosGeograficos|BaseIndicadores",
+    "DadosGeograficos": "STRING CONEXÃO SQL",
+    "BaseIndicadores": "STRING CONEXÃO SQL",
+    "UrlLogicAppSlack": "ENDPOINT LOGIC APP",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
